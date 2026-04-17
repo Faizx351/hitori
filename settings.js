@@ -12,10 +12,10 @@ const __filename = fileURLToPath(import.meta.url);
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188'] // ['628','628'] 2 owner atau lebih
-global.author = 'Nazedev'
-global.botname = 'Hitori Bot'
-global.packname = 'Bot WhatsApp'
+global.owner = ['6281511840540'] // ['628','628'] 2 owner atau lebih
+global.author = 'Ponik'
+global.botname = 'Ich liebe dich'
+global.packname = 'Azizah'
 global.timezone = 'Asia/Jakarta' // Ganti pakai command .settimezone
 global.locale = 'en' // Ganti pakai command .setlocale
 global.listprefix = ['+','!','.']
@@ -36,27 +36,27 @@ global.fake = {
 
 global.my = {
 	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/DPUC3uuqYZI9FNLdgtMp4n?mode=gi_t',
+	gh: 'https://github.com/Faizx351',
+	gc: 'https://chat.whatsapp.com/BgsIon3FN98JoDqs0iiA9O?mode=gi_t',
 	ch: '120363250409960161@newsletter',
 }
 
 global.limit = {
-	free: 20,
+	free: 50,
 	premium: 999,
 	vip: 900
 }
 
 global.money = {
-	free: 10000,
+	free: 50000,
 	premium: 1000000,
 	vip: 10000000
 }
 
 global.mess = {
 	key: "Apikey limit! Silahkan Upgrade: https://naze.biz.id",
-	owner: "Khusus Owner!",
-	admin: "Khusus Admin!",
+	owner: "Khusus Owner😈",
+	admin: "Khusus Admin👿",
 	botAdmin: "Bot harus Admin!",
 	onWa: "Nomor tersebut tidak terdaftar di WhatsApp!",
 	group: "Khusus Grup!",
@@ -67,8 +67,8 @@ global.mess = {
 	text: "Masukkan teksnya!",
 	media: "Kirim medianya!",
 	wait: "Proses...",
-	fail: "Gagal!",
-	error: "Error!",
+	fail: "Gagal co!",
+	error: "Error njr!",
 	done: "Selesai!"
 }
 
@@ -77,7 +77,7 @@ global.APIs = {
 	neosantara: 'https://api.neosantara.xyz/v1',
 }
 global.APIKeys = {
-	'https://api.naze.biz.id': 'YOUR_API_KEY',
+	'https://api.naze.biz.id': 'nz-aaefd8967a',
 	'https://api.neosantara.xyz/v1': 'API_KEY_NEOSANTARA_AI',
 }
 
