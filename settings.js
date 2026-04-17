@@ -13,9 +13,9 @@ const __filename = fileURLToPath(import.meta.url);
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
 global.owner = ['6281511840540'] // ['628','628'] 2 owner atau lebih
-global.author = 'Ponik'
-global.botname = 'Ich liebe dich'
-global.packname = 'Azizah'
+global.author = ''
+global.botname = 'Faizx Assistent'
+global.packname = '✠ Faizx 𔓙'
 global.timezone = 'Asia/Jakarta' // Ganti pakai command .settimezone
 global.locale = 'en' // Ganti pakai command .setlocale
 global.listprefix = ['+','!','.']
@@ -37,7 +37,7 @@ global.fake = {
 global.my = {
 	yt: 'https://youtube.com/c/Nazedev',
 	gh: 'https://github.com/Faizx351',
-	gc: 'https://chat.whatsapp.com/BgsIon3FN98JoDqs0iiA9O?mode=gi_t',
+	gc: 'https://chat.whatsapp.com/LTGaLNDv1K5597h1bJSqEz?mode=gi_t',
 	ch: '120363250409960161@newsletter',
 }
 
